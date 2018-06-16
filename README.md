@@ -20,4 +20,4 @@ These are my early programing days projects. They may be not stable, have some b
 
 As these programs are noobies i didnt fixed them (Even Versioning XD).
 
-I only uplaoded them in case somebody needs them for teachers ( X( ).
+I only uplaoded them in case somebody needs them for teachers. X(

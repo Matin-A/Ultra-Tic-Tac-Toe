@@ -6,18 +6,18 @@ A Simple game. Programmed in C. Run in console.
 
 * Version 1.2 Beta to 2.2 are named "Ultra Tic Tac Toe". (NOT STABLE)
 
-* Version 2.2.0 is another version of 2.2 which read choices from file. you can edit text file in directory to check another situation. (HAVE BUG)
+* Version 2.2.0 is another version of 2.2 which read choices from file. You can edit text file in directory to check another situation. (HAVE BUG)
 
 # How to play UTTT
-First select one block then first player select a cell into the block,then second player select his choice into the block with first player cell number...
+First select one block then first player select a cell into the block, then second player select his choice into the block with first player cell number...
 
-After a player choosed three cell in a row, he would win that block.
+After a player chose three cell in a row, he would win that block.
 
 After a player won three block in a row, he would win the match.
 
 # In Addition
 These are my early programing days projects. They may be not stable, have some bugs.
 
-As these programs are noobies i didnt fixed them (Even Versioning XD).
+As these programs are noobies I didn't fixed them (Even Versioning XD).
 
-I only uplaoded them in case somebody needs them for teachers. X(
+I only uploaded them in case somebody needs them for teachers. X(
